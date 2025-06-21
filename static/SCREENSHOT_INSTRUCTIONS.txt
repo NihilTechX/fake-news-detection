@@ -1,0 +1,9 @@
+# Screenshot Instructions
+
+To enhance your GitHub repository, take screenshots of your application and save them here:
+
+1. Take a screenshot of the web interface showing the input form and save as `interface.png`
+2. Take a screenshot of the result after analyzing a news article and save as `result.png`
+3. Take a general screenshot of the application for the preview image and save as `preview.png`
+
+After taking these screenshots, update the paths in README_GITHUB.md if necessary, and rename it to README.md before pushing to GitHub.
