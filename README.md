@@ -108,19 +108,3 @@ Performance metrics include accuracy, F1 score, and confusion matrices.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Tamizhan Skills for the project inspiration
-- [NLTK](https://www.nltk.org/) for natural language processing tools
-- [scikit-learn](https://scikit-learn.org/) for machine learning algorithms
-- Confidence score display
-- Color-coded results (green for real, red for fake)
-
-## Structure
-- `fake_news_detector.py`: Main script for training and evaluating models
-- `predict_news.py`: Script to make predictions on new articles
-- `app.py`: Flask web application for the user interface
-- `templates/`: Contains HTML templates for the web interface
-- `static/`: Contains static files (CSS, JS, images)
-- `requirements.txt`: List of required Python packages
