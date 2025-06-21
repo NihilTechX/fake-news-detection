@@ -35,7 +35,6 @@ Thumbs.db
 # Local environment files
 .env
 .env.local
-GITHUB_INSTRUCTIONS.md
 # Large data files (consider using Git LFS if you want to include these)
 # Uncomment the following line if you're not using Git LFS for your datasets
 # *.csv
